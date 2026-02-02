@@ -24,7 +24,8 @@ Este repositório contém um **ambiente de laboratório educacional** para estud
 
    ```bash
    git clone <url-do-repositorio>
-   cd laboratorio-react2shell
+   cd react2shell-lab
+   cd aplication
    ```
 
 2. **Instalar as dependências**
