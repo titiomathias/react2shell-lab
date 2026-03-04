@@ -2,3 +2,6 @@ node_modules/
 package-lock.json
 dist/
 .env
+ambient.zip
+discloud.config
+flag.txt
